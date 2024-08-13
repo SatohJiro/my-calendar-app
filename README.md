@@ -1,8 +1,46 @@
-# React + Vite
+# **My Calendar Application**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **Overview**
 
-Currently, two official plugins are available:
+Welcome to the My Calendar Application! This is a React-based web application designed for effective event management. It allows users to view, create, and delete events on a calendar with a clean, responsive UI. The application includes advanced features such as event recurrence, client profile management, and seamless date synchronization between the date picker and calendar views.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Features**
+
+- **Responsive Design**: Adapted for various screen sizes.
+- **Event Management**: View, create, and delete events easily.
+- **Date Synchronization**: Synchronizes selected dates across components.
+- **Recurrence Handling**: Supports recurring events with customizable frequencies.
+- **Client Profiles**: Manage client information associated with events, including avatars.
+- **Customizable UI**: Modify the appearance of selected dates and events.
+
+## **Tech Stack**
+
+- **Frontend**: React, MUI (Material-UI), Vite
+- **Date Management**: Day.js, Moment.js
+- **Calendar**: React Big Calendar
+- **Utilities**: Custom hooks, state management
+
+## **Installation**
+
+Follow the steps below to get the application running locally.
+
+### **1. Clone the Repository**
+
+```bash
+git clone https://github.com/yourusername/my-calendar-app.git
+cd my-calendar-app
+```
+
+### **2. Install Dependencies**
+Make sure you have Node.js installed, then run:
+
+```bash
+npm install
+```
+
+### **3. Start the Application**
+After the installation is complete, you can start the development server:
+
+```bash
+npm run dev
+```
