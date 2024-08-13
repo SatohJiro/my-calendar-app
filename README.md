@@ -2,15 +2,13 @@
 
 ## **Overview**
 
-Welcome to the My Calendar Application! This is a React-based web application designed for effective event management. It allows users to view, create, and delete events on a calendar with a clean, responsive UI. The application includes advanced features such as event recurrence, client profile management, and seamless date synchronization between the date picker and calendar views.
+Welcome to the My Calendar Application! This is a React-based web application designed for effective event management. It allows users to view, create, and delete events on a calendar with a clean UI. The application includes advanced features such as event recurrence and seamless date synchronization between the date picker and calendar views.
 
 ## **Features**
 
-- **Responsive Design**: Adapted for various screen sizes.
 - **Event Management**: View, create, and delete events easily.
 - **Date Synchronization**: Synchronizes selected dates across components.
 - **Recurrence Handling**: Supports recurring events with customizable frequencies.
-- **Client Profiles**: Manage client information associated with events, including avatars.
 - **Customizable UI**: Modify the appearance of selected dates and events.
 
 ## **Tech Stack**
