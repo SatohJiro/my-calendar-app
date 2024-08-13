@@ -42,3 +42,8 @@ After the installation is complete, you can start the development server:
 ```bash
 npm run dev
 ```
+
+### PREVIEW
+
+![image](https://github.com/user-attachments/assets/e0e847a3-7324-4a5a-9543-c8ddc26493b4)
+
